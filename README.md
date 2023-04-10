@@ -3,7 +3,7 @@ license: creativeml-openrail-m
 tags:
 - music
 ---
-# Holo-id 3rd gen models for so-vits
+# Hololive Mix models for so-vits
 
 For use with [so-vits-svc-fork](https://github.com/34j/so-vits-svc-fork) repo  <br />
 Use this tutorial on [Youtube](https://youtu.be/tZn0lcGO5OQ) for guidelines  <br />
