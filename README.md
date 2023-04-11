@@ -12,3 +12,4 @@ Support me: <br />
 Paypal: https://paypal.me/romramgames <br />
 Patreon: https://www.patreon.com/romariomartinus <br />
 ko-fi: https://ko-fi.com/megaaziib <br />
+Saweria: https://saweria.co/romariomartinus <br />
