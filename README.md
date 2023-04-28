@@ -4,7 +4,7 @@ tags:
 - music
 ---
 # Hololive Mix models for so-vits
-
+Tolong Credit nama saya (Romario Martinus) atau username saya (megaaziib) kalau pake voice model ini! <br />
 Credit me if you use my model <br />
 For use with [so-vits-svc-fork](https://github.com/34j/so-vits-svc-fork) repo  <br />
 Use this tutorial on [Youtube](https://youtu.be/tZn0lcGO5OQ) for guidelines  <br />
